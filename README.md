@@ -1,0 +1,1 @@
+Tolong install font "alata" agar dapat di run.
